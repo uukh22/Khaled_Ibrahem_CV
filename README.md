@@ -48,9 +48,8 @@ I am a software engineer with a strong background in backend development, cloud 
 ### Otlobly: Food delivery application
 - Developed using .NET Core 0.7 MVC 
 
-### Snake Game: A Unity-based game
-- Added scoring system and interactive gameplay
-- Demonstrated proficiency in game development
+### Online Exam
+- Developed using .NET Core 0.8 MVC 
 
 ## Volunteering Activities
 
