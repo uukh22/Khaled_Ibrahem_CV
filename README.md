@@ -1,64 +1,96 @@
-# Khaled_Ibrahem_CV
+# Khaled Ibrahem CV
 
-This repository contains my professional Curriculum Vitae (CV), showcasing my skills, education, and experience as a software engineer with expertise in cloud computing, backend development, AI, and database design. The CV is continuously updated to reflect my achievements and projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/uukh2)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/uukh22)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kaledibraem188@gmail.com)
 
-## Table of Contents
+This repository contains my professional CV, highlighting my expertise in **software engineering**, **cloud computing**, **AI/ML**, and **distributed systems**. Updated regularly with new projects and achievements.
 
-- [Introduction](#introduction)
-- [Skills](#skills)
-- [Education](#education)
-- [Experience](#experience)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Volunteering Activities](#volunteering-activities)
-- [Contact](#contact)
+---
 
-## Introduction
+## 🚀 Quick Overview  
+- **Education**: B.Sc. in Computer Science, Assiut University (2021–2025)  
+- **Skills**: Python, C#, ASP.NET Core, Go, MySQL, Computer Vision, Agile/Scrum  
+- **Projects**: Otlobly (Food Delivery), Distributed DB System, Gym AI Coach  
+- **Certifications**: Google Cloud Fundamentals, ECPC Programming Contest  
 
-I am a software engineer with a strong background in backend development, cloud technologies, and AI. I am passionate about learning new technologies and applying them to real-world problems. My journey in technology is driven by my dedication to continuous self-improvement and innovation.
+---
 
-## Skills
+## 🛠️ Technical Skills  
+**Programming Languages**:  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)  
 
-- **Programming Languages**: .NET CORE, C#, Python, JavaScript, SQL, HTML, CSS
-- **Frameworks & Tools**: Flask, Unity, MVC
-- **Technologies**: Cloud Computing, JWT Authentication, RESTful APIs
-- **Database Management**: Database Design, Entity Framework, MySQL, SSMS
-- **Others**: Version Control (Git), Data Mining, Machine Learning
+**Frameworks & Tools**:  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=.net) ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4) ![Stripe API](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe)  
 
-## Education
+**Databases**:  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![Distributed DB](https://img.shields.io/badge/-Distributed%20DB-003B57)  
 
-**Bachelor's Degree in Computer Science**, Assiut University  
-- Active participant in various academic and extracurricular activities  
-- Engaged in projects focused on backend development and cloud-based solutions
+---
 
-## Experience
+## 🎓 Education  
+**Bachelor’s Degree in Computer Science**  
+*Faculty of Computers and Information, Assiut University*  
+`2021 – 2025`  
+- **Relevant Coursework**: Algorithms, Parallel Computing, AI, Computer Vision, Software Engineering  
 
-**Software Development Intern** at Ejada Cloud  
-- Participated in developing cloud-based applications  
-- Gained hands-on experience with enterprise-level solutions
+---
 
+## 💼 Experience  
+**Cloud Computing and AI Intern** @ EJADA  
+`July 2024 – August 2024`  
+- Researched cloud infrastructure and AI solutions for enterprise applications.  
 
-## Certifications
+---
 
-- **Google Cloud Fundamentals: Core Infrastructure** by Google  
-  - Gained in-depth knowledge of Google Cloud services and architecture
+## 🏆 Certifications & Achievements  
+- **Google Cloud Fundamentals: Core Infrastructure** (Google, Aug 2024)  
+- **ECPC Programming Contest Finalist** (2023)  
+- **Leadership Preparation Competition Winner** (2024)  
 
-## Projects
+---
 
-### Otlobly: Food delivery application
-- Developed using .NET Core 0.7 MVC 
+## 🧪 Projects  
 
-### Online Exam
-- Developed using .NET Core 0.8 MVC 
+### 🍔 FAST FOOD DELIVERY (OTLOBLY)  
+*ASP.NET Core MVC 7 | Stripe API | LINQ*  
+- Role-based access control (Superadmin/Admin/Customer) and payment integration.  
 
-## Volunteering Activities
+### ♟️ N-Queens Genetic Solver  
+*Python | Genetic Algorithms*  
+- Solved N-Queens problem using crossover, mutation, and fitness optimization.  
 
-Active volunteer in campus-based initiatives at Assiut University 2022-2024, contributing to community development and technology education.
+### 🏋️ Gym AI Coach  
+*Python | MediaPipe | Real-Time Feedback*  
+- AI-driven platform for exercise analysis and correction via webcam.  
 
-## Contact
+### 🗃️ Distributed Database System  
+*Go | MySQL | REST APIs*  
+- Master-Slave replication with automatic failover and cluster health monitoring.  
 
+[View All Projects →](https://github.com/uukh22)  
+
+---
+
+## 🌟 Volunteering  
+- **President, Students Union** @ FCI Assiut (2024–2025)  
+- **Lead Organizer, SolveX Hackathon** (2023–2024)  
+- **C++ Programming Instructor** @ Bionic Assiut (2023–2024)  
+
+---
+
+## 🌐 Languages  
+- **Arabic**: Native  
+- **English**: B1 (Intermediate)  
+
+---
+
+## 📬 Contact  
 - **Email**: [kaledibraem188@email.com](mailto:kaledibraem188@email.com)
-- **LinkedIn**: [Khaled Ibrahem LinkedIn](https://www.linkedin.com/in/uu_k2)
-- **GitHub**: [Khaled's GitHub](https://github.com/uukh22)
+- **Phone**: +(20) 1095832905  
+- **Location**: Gharbia, Egypt  
   
 Feel free to explore my CV and connect with me for any collaborations or job opportunities.
+**Last Updated**: June 2025
